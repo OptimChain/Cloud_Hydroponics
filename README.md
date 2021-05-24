@@ -1,6 +1,6 @@
 #### Cloud Based Hydroponics sensoring
 
-In the current Hydroponics Industry, sensors are used to monitor greenhouse floor hydraulic systems to monitor for both water and air deviations in atmospheric conditions. The downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
+In the current hydroponics industry, sensors are used to monitor greenhouse floor-level hydraulic systems to monitor for both water and air deviations in atmospheric conditions. The downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
 
 The system architecture is describled in Figure 1. A floor level master computer is used to control the pis while the pis upload telemetry events to the azure event-hub. Telemetry events are ingested and built into a stream with azure data lake storage and processed for Email and Text Alerting. Control-Charts, Rule based Alerting, and Historical Analysis is then built on the azure data lake layer.
 
