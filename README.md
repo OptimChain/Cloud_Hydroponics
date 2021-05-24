@@ -31,16 +31,20 @@ Figure 1, stored telemetry account
 ![image](https://user-images.githubusercontent.com/84352976/119286880-30cea800-bbfa-11eb-99b6-5a16a6eaa7b5.png)
 
 3. The flowdatacontainer account contains all archived telemetry (Figure 2 and Figure 3):
+
 Figure 2: Archived Telemetry Folders
 ![image](https://user-images.githubusercontent.com/84352976/119287003-712e2600-bbfa-11eb-80d0-5f72538eb08f.png)
+
 Figure 3: Sample json file for flow data
 ![image](https://user-images.githubusercontent.com/84352976/119287091-9de23d80-bbfa-11eb-93f1-5ba6eaa8084e.png)
 
 4. The HydroIoTHub eventhub (Figure 4) contains all sent events. Go here to configure new Pi devices or change the connection string for devices. The current connection string for the first device is: "HostName=HydroIoTHub.azure-devices.net;DeviceId=device1;SharedAccessKey=yEWaKoMpVmW5x67E6mdzwGkLEUv28tYEzJ1DWKkvrMw="
+
 Figure 4: HydroIoTHub
 ![image](https://user-images.githubusercontent.com/84352976/119287167-c702ce00-bbfa-11eb-8de0-47991c9f576a.png)
 
 5. comm-serv contains all the emails and text alerting services (Figure 5)
+
 Figure 5: comm-serv
 ![image](https://user-images.githubusercontent.com/84352976/119289087-c5d3a000-bbfe-11eb-93c4-2459a40b9d6c.png)
 
