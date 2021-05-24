@@ -4,7 +4,7 @@ PVC Architexture: https://drive.google.com/file/d/1YTgufwX0AAyKJ3Pin0-16YOq_oPhZ
 
 App Architexture: https://drive.google.com/file/d/1RcUjOQA1PDD137VwBZKDlc1MvjlBsVaH/view?usp=sharing
 
-Client Meeting Notes:
+Build Specs Notes:
 
                 2.21.2021:
                         Display: HD TV off the sphere motherboard
@@ -27,7 +27,7 @@ Client Meeting Notes:
 
                 2.13.2021:  
                 
-                        Client Deliverables:
+                        Deliverables:
                         Detailed Configuration Spec 3.15.2021 on MVP completion
                         Pipe Spec  3.15.2021 on MVP completion
                         Pipe Shipped for MVP
