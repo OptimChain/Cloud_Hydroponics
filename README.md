@@ -5,6 +5,7 @@ In the current Hydroponics Industry, sensors are used to monitor greenhouse floo
 The system architecture is describled in Figure 1. A floor level master computer is used to control the pis while the pis upload telemetry events to the azure event-hub. Telemetry events are ingested and built into a stream with azure data lake storage and processed for Email and Text Alerting. Control-Charts, Rule based Alerting, and Historical Analysis is then built on the azure data lake layer.
 
 Figure 1: Cloud Azure Architecture
+
 ![image](https://user-images.githubusercontent.com/84352976/119286126-7be7bb80-bbf8-11eb-8b6b-cc7f12720f0a.png)
 
 ##### To set up the pi system:
