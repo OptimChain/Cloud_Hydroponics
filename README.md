@@ -27,7 +27,7 @@ Simulated Telemetry Setup:
 1. Log into the Azure Portal: https://azure.microsoft.com/en-us/features/azure-portal/
 2. The hydrostor account contains the root for stored telemetry (Figure 1):
 
-Figure 1, stored telemetry account
+Figure 1: stored telemetry account
 ![image](https://user-images.githubusercontent.com/84352976/119286880-30cea800-bbfa-11eb-99b6-5a16a6eaa7b5.png)
 
 3. The flowdatacontainer account contains all archived telemetry (Figure 2 and Figure 3):
@@ -55,7 +55,7 @@ Figure 5: comm-serv
 2. Run app.py to build a local version of the dashboard (Figure 5)
 3. If any events arrive at the event-hub, then these datapoints will show up in this dashboard
 
-Figure 5: Graph Local Build
+Figure 6: Graph Local Build
 https://www.facebook.com/messenger_media/?thread_id=100006558996249&attachment_id=993438838069022&message_id=mid.%24cAAAABzx9RxV_YOMb9F5L521JDFeR
 
 
