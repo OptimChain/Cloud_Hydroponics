@@ -1,4 +1,4 @@
-#### Cloud Based Hydroponics sensoring
+### Cloud Based Hydroponics sensoring
 
 In the current hydroponics industry, sensors are used to monitor greenhouse floor-level hydraulic systems to monitor for both water and air deviations in atmospheric conditions. The downtime of any components in this sensoring setup would cause significant damage to greenhouse plant health. Cloud Hydroponics is a cloud azure instrumentation system to complement the existing floor level greenhouse networks. Cloud instrumentation will allow alerting, monitoring, and real time storage of sensor telemetry at scale with customizability.
 
@@ -8,7 +8,7 @@ Figure 1: Cloud Azure Architecture
 
 ![image](https://user-images.githubusercontent.com/84352976/119286126-7be7bb80-bbf8-11eb-8b6b-cc7f12720f0a.png)
 
-##### To set up the pi system:
+#### To set up the pi system:
 
 Pi Setup:
 
@@ -22,7 +22,7 @@ Simulated Telemetry Setup:
 1. Fork the code within the Hydroponics_Driver folder: 
 2. Install Simulated_Telemetry.py within any local computer python program. When this is run, simulated pulse telemetry will flow into our system
 
-##### To view the Cloud System:
+#### To view the Cloud System:
 
 1. Log into the Azure Portal: https://azure.microsoft.com/en-us/features/azure-portal/
 2. The hydrostor account contains the root for stored telemetry (Figure 1):
@@ -44,7 +44,7 @@ Figure 5: comm-serv
 ![image](https://user-images.githubusercontent.com/84352976/119289087-c5d3a000-bbfe-11eb-93c4-2459a40b9d6c.png)
 
 
-##### To setup the Dashboarding System:
+#### To setup the Dashboarding System:
 
 1. Fork the code inside the Hydroponics_Dashboard folder
 2. Run app.py to build a local version of the dashboard (Figure 5)
