@@ -27,7 +27,7 @@ Simulated Telemetry Setup:
 1. Log into the Azure Portal: https://azure.microsoft.com/en-us/features/azure-portal/
 2. The hydrostor account contains the root for stored telemetry (Figure 1):
 
-Figure 1: stored telemetry account
+Figure 1: Stored Telemetry Account
 ![image](https://user-images.githubusercontent.com/84352976/119286880-30cea800-bbfa-11eb-99b6-5a16a6eaa7b5.png)
 
 3. The flowdatacontainer account contains all archived telemetry (Figure 2 and Figure 3):
