@@ -1,10 +1,10 @@
-# High Level Diagrams:
+#### High Level Diagrams:
 
 
 App Architexture: https://drive.google.com/file/d/1RcUjOQA1PDD137VwBZKDlc1MvjlBsVaH/view?usp=sharing
 
 
-# GPIO Driver Module
+#### GPIO Driver Module
 The GPIO Driver Module: 
 
 Writes the output of flow sensors with the current flow values in csv datetime stamps. Azure Event IoT will be used to read the output streams.
@@ -25,7 +25,7 @@ Writes the output of flow sensors with the current flow values in csv datetime s
 https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.pde?fbclid=IwAR3SIUdLE5aKkmUtFKgHbSNPZg7KXZPyR9lolm_gVZimlLtZKGQ9XfKeaMI
 
 
-# Python read/write Module
+#### Python read/write Module
 
 Goal: Python code to port csvs into the following blob string:
 
