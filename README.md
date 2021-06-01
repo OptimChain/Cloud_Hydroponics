@@ -42,6 +42,8 @@ Simulated Telemetry Setup:
 
 ![image](https://user-images.githubusercontent.com/84352976/119287091-9de23d80-bbfa-11eb-93f1-5ba6eaa8084e.png)
 
+### To configure the eventhub
+
 4. The HydroIoTHub eventhub  contains all sent events. Go here to configure new Pi devices or change the connection string for devices. The current connection string for the first device is: "HostName=HydroIoTHub.azure-devices.net;DeviceId=device1;SharedAccessKey=yEWaKoMpVmW5x67E6mdzwGkLEUv28tYEzJ1DWKkvrMw="
 
 ![image](https://user-images.githubusercontent.com/84352976/119287167-c702ce00-bbfa-11eb-8de0-47991c9f576a.png)
