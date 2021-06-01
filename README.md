@@ -11,7 +11,7 @@ Figure 1: Cloud Azure Architecture
 
 ![image](![Home Pic](https://user-images.githubusercontent.com/84352976/120264166-12982600-c252-11eb-9d1c-c00834064945.png)
 
-#### To set up the pi system:
+### To set up the pi system:
 
 Pi Setup:
 
@@ -25,7 +25,7 @@ Simulated Telemetry Setup:
 1. Fork the code within the Hydroponics_Driver folder: 
 2. Install Simulated_Telemetry.py within any local computer python program. When this is run, simulated pulse telemetry will flow into our system
 
-#### To view the Cloud System:
+### To view the Cloud System:
 
 1. Log into the Azure Portal: https://azure.microsoft.com/en-us/features/azure-portal/
 
@@ -56,7 +56,7 @@ Figure 6: comm-serv
 ![image](https://user-images.githubusercontent.com/84352976/119289087-c5d3a000-bbfe-11eb-93c4-2459a40b9d6c.png)
 
 
-#### To setup the Dashboarding System:
+### To setup the Dashboarding System:
 
 1. Fork the code inside the Hydroponics_Dashboard folder
 2. Run app.py to build a local version of the dashboard (Figure 5)
