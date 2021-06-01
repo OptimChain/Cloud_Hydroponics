@@ -29,8 +29,8 @@ Simulated Telemetry Setup:
 
 1. Log into the Azure Portal: https://azure.microsoft.com/en-us/features/azure-portal/
 
-  Login: cloud@optimchain.org
-  Pass: Contact cloud@optimchain.org
+  * Login: cloud@optimchain.org
+  * Pass: Contact cloud@optimchain.org
   
 2. The hydrostor account contains the root for stored telemetry (Figure 1):
 
