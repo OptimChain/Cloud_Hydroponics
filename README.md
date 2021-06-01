@@ -9,7 +9,7 @@ The system architecture is describled in Figure 1. A floor level master computer
 
 Figure 1: Cloud Azure Architecture
 
-![image](![Home Pic](https://user-images.githubusercontent.com/84352976/120264166-12982600-c252-11eb-9d1c-c00834064945.png)
+![Home Pic](https://user-images.githubusercontent.com/84352976/120264166-12982600-c252-11eb-9d1c-c00834064945.png)
 
 ### To set up the pi system:
 
