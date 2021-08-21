@@ -59,8 +59,6 @@ Simulated Telemetry Setup:
 2. Run app.py to build a local version of the dashboard (Figure 5)
 3. If any events arrive at the event-hub, then these datapoints will show up in this dashboard
 
-Figure 7: Graph Local Build
-https://www.facebook.com/messenger_media/?thread_id=100006558996249&attachment_id=993438838069022&message_id=mid.%24cAAAABzx9RxV_YOMb9F5L521JDFeR
 
 
 
