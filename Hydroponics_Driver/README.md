@@ -29,6 +29,6 @@ https://github.com/adafruit/Adafruit-Flow-Meter/blob/master/Adafruit_FlowMeter.p
 
 Goal: Python code to port csvs into the following blob string:
 
-CONNECTION_STRING = "HostName=HydroIoTHub.azure-devices.net;DeviceId=device1;SharedAccessKey=yEWaKoMpVmW5x67E6mdzwGkLEUv28tYEzJ1DWKkvrMw="
+CONNECTION_STRING = [Redacted]
 
 Read write driver should be able to call c++ main function, clean csvs from memory, and write to the above location periodically. 
