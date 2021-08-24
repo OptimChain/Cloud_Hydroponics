@@ -41,8 +41,6 @@ def iothub_client_telemetry_sample_run():
             while time.time() < timeout:
                      pulse = betavariate(6,25) + betavariate(6,25) + betavariate(6,25)
 
-            print(pulse)
-
             # Build the message with simulated telemetry values.
             timestamp = TIMESTAMP 
             msg_txt_formatted = MSG_TXT.format(timestamp=timestamp, pulse=pulse)
@@ -51,7 +49,6 @@ def iothub_client_telemetry_sample_run():
             message.content_encoding = "utf-8"
             message.content_type = "application/json"
    
-            print(timestamp)
             # Send the message.
             print( "Sending message: {}".format(message) )
             client.send_message(message)
