@@ -25,9 +25,6 @@ def pipe():
     
     print("Loading Json Stream")
     r = simulated_read()
-    #r = production_read("HydroIoTHub/01/2021/05/02/")
-   
-        #Read from azure blob
         
     return {"res":r}
 
