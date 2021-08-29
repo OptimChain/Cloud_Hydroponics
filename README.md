@@ -1,4 +1,4 @@
-### Cloud Based Hydroponics sensoring
+### OptimChain Lab 001: Cloud EventHub Configuration Starter
 
 
 ![Pi_Computer](https://user-images.githubusercontent.com/84352976/120264534-dc0edb00-c252-11eb-96ed-9834a28466bf.jpg)
